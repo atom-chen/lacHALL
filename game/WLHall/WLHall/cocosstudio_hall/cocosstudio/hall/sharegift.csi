@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="sharegift" Type="Plist" ID="58716101-4d54-46a0-b322-de51f4c0500c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/welfare/share/btn_share.png" />
+      <FilePathData Path="hall/welfare/share/img_bg.png" />
+      <FilePathData Path="hall/welfare/share/img_di.png" />
+      <FilePathData Path="hall/welfare/share/img_pj.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

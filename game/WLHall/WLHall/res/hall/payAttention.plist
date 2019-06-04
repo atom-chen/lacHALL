@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/welfare/gzyl/img_kuang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{134,198},{48,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{48,24}</string>
+			</dict>
+			<key>hall/welfare/gzyl/img_lingqu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{192,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{192,77}</string>
+			</dict>
+			<key>hall/welfare/gzyl/img_node.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{162,198},{32,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,32}</string>
+			</dict>
+			<key>hall/welfare/gzyl/img_yilingqu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{83,2},{192,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{192,77}</string>
+			</dict>
+			<key>hall/welfare/gzyl/img_bg2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,198},{37,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{37,84}</string>
+			</dict>
+			<key>hall/welfare/gzyl/img_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{375,2},{26,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,26}</string>
+			</dict>
+			<key>hall/welfare/gzyl/img_lq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,2},{207,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{207,62}</string>
+			</dict>
+			<key>hall/welfare/gzyl/img_nt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,198},{40,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,43}</string>
+			</dict>
+			<key>hall/welfare/gzyl/img_txt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{162,234},{18,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,18}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>payAttention.png</string>
+			<key>realTextureFileName</key>
+			<string>payAttention.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

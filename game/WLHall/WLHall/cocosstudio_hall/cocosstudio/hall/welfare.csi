@@ -1,0 +1,27 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="welfare" Type="Plist" ID="63c68985-e825-4ac9-81d8-391f5239c347" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/welfare/icon_jihuo.png" />
+      <FilePathData Path="hall/welfare/icon_share.png" />
+      <FilePathData Path="hall/welfare/icon_shiming.png" />
+      <FilePathData Path="hall/welfare/icon_shouchong.png" />
+      <FilePathData Path="hall/welfare/img_close.png" />
+      <FilePathData Path="hall/welfare/img_diban1.png" />
+      <FilePathData Path="hall/welfare/img_diban2.png" />
+      <FilePathData Path="hall/welfare/icon_czlb.png" />
+      <FilePathData Path="hall/welfare/img_finish.png" />
+      <FilePathData Path="hall/welfare/img_locked.png" />
+      <FilePathData Path="hall/welfare/img_xsqd.png" />
+      <FilePathData Path="hall/welfare/icon_gzyl.png" />
+      <FilePathData Path="hall/welfare/icon_mrqd.png" />
+      <FilePathData Path="hall/welfare/icon_pjyl.png" />
+      <FilePathData Path="hall/welfare/icon_xsqd.png" />
+      <FilePathData Path="hall/welfare/img_zhezhao.png" />
+      <FilePathData Path="hall/welfare/img_guang.png" />
+      <FilePathData Path="hall/welfare/img_kefu.png" />
+      <FilePathData Path="hall/welfare/node_ani.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

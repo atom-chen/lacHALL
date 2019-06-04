@@ -1,0 +1,32 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="arena" Type="Plist" ID="83e0e198-63e9-436a-b48e-cf7d7e18fcd6" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/arena/arena_mrt.png" />
+      <FilePathData Path="hall/arena/icon__paihang_xz.png" />
+      <FilePathData Path="hall/arena/bg_btn_paihang.png" />
+      <FilePathData Path="hall/arena/img_bg2.png" />
+      <FilePathData Path="hall/arena/img_di.png" />
+      <FilePathData Path="hall/arena/img_fram.png" />
+      <FilePathData Path="hall/arena/img_js.png" />
+      <FilePathData Path="hall/arena/img_ph.png" />
+      <FilePathData Path="hall/arena/img_mingrenaward.png" />
+      <FilePathData Path="hall/arena/img_mingrenaward_bg.png" />
+      <FilePathData Path="hall/arena/img_1.png" />
+      <FilePathData Path="hall/arena/arena_zlt.png" />
+      <FilePathData Path="hall/arena/arena_mrlt.png" />
+      <FilePathData Path="hall/arena/img_day.png" />
+      <FilePathData Path="hall/arena/img_week.png" />
+      <FilePathData Path="hall/arena/img_2.png" />
+      <FilePathData Path="hall/arena/img_day_1.png" />
+      <FilePathData Path="hall/arena/img_week_2.png" />
+      <FilePathData Path="hall/arena/top1.png" />
+      <FilePathData Path="hall/arena/top2.png" />
+      <FilePathData Path="hall/arena/top3.png" />
+      <FilePathData Path="hall/arena/arrow.png" />
+      <FilePathData Path="hall/arena/img_week_arena.png" />
+      <FilePathData Path="hall/arena/img_day_arena.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

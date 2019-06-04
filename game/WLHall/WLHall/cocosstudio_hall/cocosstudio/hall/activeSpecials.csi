@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="activeSpecials" Type="Plist" ID="bb81c512-ff04-4da8-8350-455987aeba3a" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/active/activespecials/img_xianshicontet.png" />
+      <FilePathData Path="hall/active/activespecials/img_xianshidi.png" />
+      <FilePathData Path="hall/active/activespecials/img_xianshigood.png" />
+      <FilePathData Path="hall/active/activespecials/img_xianshitubiao.png" />
+      <FilePathData Path="hall/active/activespecials/timed_goods_gold_1.png" />
+      <FilePathData Path="hall/active/activespecials/timed_goods_gold_2.png" />
+      <FilePathData Path="hall/active/activespecials/timed_goods_gold_3.png" />
+      <FilePathData Path="hall/active/activespecials/timed_goods_1.png" />
+      <FilePathData Path="hall/active/activespecials/timed_goods_2.png" />
+      <FilePathData Path="hall/active/activespecials/timed_goods_3.png" />
+      <FilePathData Path="hall/active/activespecials/img_qgsj.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

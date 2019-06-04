@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="return_gold" Type="Plist" ID="a1fb7337-6b4b-4e8a-9102-eb446a0b8b77" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/popupGoodsView/returnView/btn_bk.png" />
+      <FilePathData Path="hall/popupGoodsView/returnView/btn_close.png" />
+      <FilePathData Path="hall/popupGoodsView/returnView/img_bb.png" />
+      <FilePathData Path="hall/popupGoodsView/returnView/img_btn_wx.png" />
+      <FilePathData Path="hall/popupGoodsView/returnView/img_btn_zfb.png" />
+      <FilePathData Path="hall/popupGoodsView/returnView/img_give.png" />
+      <FilePathData Path="hall/popupGoodsView/returnView/img_line.png" />
+      <FilePathData Path="hall/popupGoodsView/returnView/img_return.png" />
+      <FilePathData Path="hall/popupGoodsView/returnView/img_btn_apple.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

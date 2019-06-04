@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/hallset/btn_fyan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,160},{35,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{35,30}</string>
+			</dict>
+			<key>hall/hallset/btn_kfu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{75,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,75}</string>
+			</dict>
+			<key>hall/hallset/btn_sming.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,81},{75,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,75}</string>
+			</dict>
+			<key>hall/hallset/btn_szhi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,160},{75,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,75}</string>
+			</dict>
+			<key>hall/hallset/btn_yxiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,199},{34,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{34,28}</string>
+			</dict>
+			<key>hall/hallset/btn_yyue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{115,160},{29,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{29,31}</string>
+			</dict>
+			<key>hall/hallset/btn_qhzh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,2},{75,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,75}</string>
+			</dict>
+			<key>hall/hallset/btn_jy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,199},{35,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{35,28}</string>
+			</dict>
+			<key>hall/hallset/btn_feedback.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,2},{75,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,75}</string>
+			</dict>
+			<key>hall/hallset/img_set.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,81},{75,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,75}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>hallset.png</string>
+			<key>realTextureFileName</key>
+			<string>hallset.png</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

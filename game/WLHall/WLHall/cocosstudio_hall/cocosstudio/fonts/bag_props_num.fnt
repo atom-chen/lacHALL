@@ -1,0 +1,25 @@
+info face="bag_props_num" size=1 bold=0 italic=0 charset="" unicode=0 stretchH=0 smooth=1 aa=1 padding=0,0,0,0 spacing=0,0
+common lineHeight=25 base=0 scaleW=128 scaleH=128 pages=1 packed=0
+page id=0 file="bag_props_num.png"
+chars count=20
+
+char  id=32  x=0  y=0  width=0  height=0  xoffset=0  yoffset=0  xadvance=27  page=0  chnl=0
+char  id=46  x=0  y=0  width=9  height=25  xoffset=0  yoffset=0  xadvance=9  page=0  chnl=0
+char  id=49  x=9  y=0  width=12  height=25  xoffset=0  yoffset=0  xadvance=12  page=0  chnl=0
+char  id=38  x=0  y=25  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=43  x=21  y=0  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=45  x=0  y=50  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=48  x=16  y=25  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=50  x=37  y=0  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=51  x=0  y=75  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=52  x=16  y=50  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=53  x=32  y=25  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=54  x=53  y=0  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=55  x=0  y=100  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=56  x=16  y=75  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=57  x=32  y=50  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=120  x=48  y=25  width=16  height=25  xoffset=0  yoffset=0  xadvance=16  page=0  chnl=0
+char  id=20803  x=69  y=0  width=27  height=24  xoffset=0  yoffset=0  xadvance=27  page=0  chnl=0
+char  id=24352  x=96  y=0  width=26  height=25  xoffset=0  yoffset=0  xadvance=26  page=0  chnl=0
+char  id=22825  x=16  y=100  width=27  height=24  xoffset=0  yoffset=0  xadvance=27  page=0  chnl=0
+char  id=20010  x=32  y=75  width=27  height=25  xoffset=0  yoffset=0  xadvance=27  page=0  chnl=0

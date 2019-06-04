@@ -1,0 +1,27 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="shakeview" Type="Plist" ID="6a3034ae-f93e-4a73-a426-93e7ba68bd42" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/popupGoodsView/shakeView/ani_r.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/btn_ali.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/btn_apple.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/btn_out.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/btn_wch.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/btn_yellow.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/buy.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/jia.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/jindou.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/line_03.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/maopao_big.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/maopao_small.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/pro_01.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/pro_02.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/slice_bg_jg_00.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/yuan.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/yaoyiyao.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/line_out.png" />
+      <FilePathData Path="hall/popupGoodsView/shakeView/ani_l.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

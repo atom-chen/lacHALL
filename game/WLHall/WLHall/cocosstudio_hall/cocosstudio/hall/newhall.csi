@@ -1,0 +1,37 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="newhall" Type="Plist" ID="21bd3765-f8ef-40e1-aeb7-e530b299a56e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/newhall/bg_jl.png" />
+      <FilePathData Path="hall/newhall/bg_yx.png" />
+      <FilePathData Path="hall/newhall/btn_bb.png" />
+      <FilePathData Path="hall/newhall/btn_dh.png" />
+      <FilePathData Path="hall/newhall/btn_hd.png" />
+      <FilePathData Path="hall/newhall/btn_hyf.png" />
+      <FilePathData Path="hall/newhall/btn_jbei.png" />
+      <FilePathData Path="hall/newhall/btn_wjx.png" />
+      <FilePathData Path="hall/newhall/btn_wjxb.png" />
+      <FilePathData Path="hall/newhall/shop_icon.png" />
+      <FilePathData Path="hall/newhall/gengduo.png" />
+      <FilePathData Path="hall/newhall/btn_xtjyx.png" />
+      <FilePathData Path="hall/newhall/hyf_arrow.png" />
+      <FilePathData Path="hall/newhall/btn_arena.png" />
+      <FilePathData Path="hall/newhall/gamelist_line.png" />
+      <FilePathData Path="hall/newhall/img_di.png" />
+      <FilePathData Path="hall/newhall/img_mask.png" />
+      <FilePathData Path="hall/newhall/ani_activity.png" />
+      <FilePathData Path="hall/newhall/txt_ljlq.png" />
+      <FilePathData Path="hall/newhall/txt_zgyk.png" />
+      <FilePathData Path="hall/newhall/guizu.png" />
+      <FilePathData Path="hall/newhall/mrfx.png" />
+      <FilePathData Path="hall/newhall/txt_fxyl.png" />
+      <FilePathData Path="hall/newhall/img_qiehuan.png" />
+      <FilePathData Path="hall/newhall/img_mfk.png" />
+      <FilePathData Path="hall/newhall/ani_mfd.png" />
+      <FilePathData Path="hall/newhall/ani_mfd2.png" />
+      <FilePathData Path="hall/newhall/img_mfd.png" />
+      <FilePathData Path="hall/newhall/img_mfd2.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

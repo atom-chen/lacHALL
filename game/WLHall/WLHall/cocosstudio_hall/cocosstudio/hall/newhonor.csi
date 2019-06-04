@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="newhonor" Type="Plist" ID="e53207f3-4821-498f-a2a0-02b280a00b2a" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/newhonor/imf_btn1.png" />
+      <FilePathData Path="hall/newhonor/imf_btn2.png" />
+      <FilePathData Path="hall/newhonor/img_arrow.png" />
+      <FilePathData Path="hall/newhonor/img_di1.png" />
+      <FilePathData Path="hall/newhonor/img_di2.png" />
+      <FilePathData Path="hall/newhonor/img_di3.png" />
+      <FilePathData Path="hall/newhonor/img_help.png" />
+      <FilePathData Path="hall/newhonor/img_di4.png" />
+      <FilePathData Path="hall/newhonor/btn_wjx1.png" />
+      <FilePathData Path="hall/newhonor/btn_wjx2.png" />
+      <FilePathData Path="hall/newhonor/img_suo.png" />
+      <FilePathData Path="hall/newhonor/head.png" />
+      <FilePathData Path="hall/newhonor/img_award.png" />
+      <FilePathData Path="hall/newhonor/img_line.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

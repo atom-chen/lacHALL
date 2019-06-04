@@ -1,0 +1,44 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="vip_detailed" Type="Plist" ID="f63861ed-061b-4516-939f-8ae12c8a962b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/vip_detailed/bg_vip.png" />
+      <FilePathData Path="hall/vip_detailed/vip_words_v_s.png" />
+      <FilePathData Path="hall/vip_detailed/vip_words_v_w.png" />
+      <FilePathData Path="hall/vip_detailed/btn_orange.png" />
+      <FilePathData Path="hall/vip_detailed/btn_close.png" />
+      <FilePathData Path="hall/vip_detailed/btn_recharge.png" />
+      <FilePathData Path="hall/vip_detailed/avatar_icon.png" />
+      <FilePathData Path="hall/vip_detailed/package_bg.png" />
+      <FilePathData Path="hall/vip_detailed/vip_desc_icon.png" />
+      <FilePathData Path="hall/vip_detailed/vip_desc_lower.png" />
+      <FilePathData Path="hall/vip_detailed/vip_desc_mid.png" />
+      <FilePathData Path="hall/vip_detailed/vip_desc_pattern.png" />
+      <FilePathData Path="hall/vip_detailed/vip_desc_top.png" />
+      <FilePathData Path="hall/vip_detailed/vip_privilege .png" />
+      <FilePathData Path="hall/vip_detailed/vip_desc_projection .png" />
+      <FilePathData Path="hall/vip_detailed/bar_bg.png" />
+      <FilePathData Path="hall/vip_detailed/vip_goods_bg.png" />
+      <FilePathData Path="hall/vip_detailed/vip_lower_icon.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_1.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_10.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_11.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_12.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_13.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_14.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_15.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_16.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_2.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_3.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_4.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_5.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_6.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_7.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_8.png" />
+      <FilePathData Path="hall/vip_detailed/vip_num_9.png" />
+      <FilePathData Path="hall/vip_detailed/vip_exclamatory_mark.png" />
+      <FilePathData Path="hall/vip_detailed/img_slv_cover.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

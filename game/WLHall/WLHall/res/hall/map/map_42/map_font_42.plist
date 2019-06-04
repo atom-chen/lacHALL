@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/map/map_42/info_es.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_ez.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,67},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_hg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,129},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_hs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,191},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_jm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{73,5},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_jz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{73,67},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_qj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{73,129},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_snj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{73,191},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_sy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{141,5},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_sz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{141,67},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_tm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{141,129},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_wh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{141,191},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_xf.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,5},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_xg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,67},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_xn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,129},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_xt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,191},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+			<key>hall/map/map_42/info_yc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{277,5},{58,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,52}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>map_font_42.png</string>
+			<key>realTextureFileName</key>
+			<string>map_font_42.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="cup" Type="Plist" ID="de1a2399-ce19-4198-9cf2-7f639986f52d" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/honor/grade_img_1.png" />
+      <FilePathData Path="hall/honor/grade_img_2.png" />
+      <FilePathData Path="hall/honor/grade_img_3.png" />
+      <FilePathData Path="hall/honor/grade_img_4.png" />
+      <FilePathData Path="hall/honor/grade_img_5.png" />
+      <FilePathData Path="hall/honor/grade_img_6.png" />
+      <FilePathData Path="hall/newhonor/grade_1.png" />
+      <FilePathData Path="hall/newhonor/grade_2.png" />
+      <FilePathData Path="hall/newhonor/grade_3.png" />
+      <FilePathData Path="hall/newhonor/grade_4.png" />
+      <FilePathData Path="hall/newhonor/grade_5.png" />
+      <FilePathData Path="hall/newhonor/grade_6.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

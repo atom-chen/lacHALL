@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="sign" Type="Plist" ID="64be50eb-92a0-4dcb-abdd-8b6caa24db23" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/welfare/sign/img_bei.png" />
+      <FilePathData Path="hall/welfare/sign/img_qd.png" />
+      <FilePathData Path="hall/welfare/sign/close.png" />
+      <FilePathData Path="hall/welfare/sign/img_mrlq.png" />
+      <FilePathData Path="hall/welfare/sign/img_ylq.png" />
+      <FilePathData Path="hall/welfare/sign/glow.png" />
+      <FilePathData Path="hall/welfare/sign/img_3.png" />
+      <FilePathData Path="hall/welfare/sign/img_5.png" />
+      <FilePathData Path="hall/welfare/sign/img_4.png" />
+      <FilePathData Path="hall/welfare/sign/icon_doudou.png" />
+      <FilePathData Path="hall/welfare/sign/icon_zuanshi.png" />
+      <FilePathData Path="hall/welfare/sign/vip_bg.png" />
+      <FilePathData Path="hall/welfare/sign/vip_zhezhao.png" />
+      <FilePathData Path="hall/welfare/sign/vipxiangqing.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

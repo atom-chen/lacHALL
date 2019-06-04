@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/active/senevday/bnt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,217},{18,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{18,18}</string>
+			</dict>
+			<key>hall/active/senevday/icon_Red envelope_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{144,175}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,175}</string>
+			</dict>
+			<key>hall/active/senevday/icon_Red envelope_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{150,2},{144,175}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,175}</string>
+			</dict>
+			<key>hall/active/senevday/icon_Red envelope_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,2},{82,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{82,83}</string>
+			</dict>
+			<key>hall/active/senevday/icon_Red envelope_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{385,2},{82,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{82,83}</string>
+			</dict>
+			<key>hall/active/senevday/icon_Red envelope_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,181},{86,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,32}</string>
+			</dict>
+			<key>hall/active/senevday/icon_Red envelope_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,88},{82,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,83}</string>
+			</dict>
+			<key>hall/active/senevday/shape_D.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,217},{20,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{20,59}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>sevendays.png</string>
+			<key>realTextureFileName</key>
+			<string>sevendays.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

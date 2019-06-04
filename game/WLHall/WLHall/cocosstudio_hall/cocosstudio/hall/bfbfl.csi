@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="bfbfl" Type="Plist" ID="9efc41bd-c096-442b-91be-5e287490437a" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/active/bfbfl/btn_rule.png" />
+      <FilePathData Path="hall/active/bfbfl/img_jd.png" />
+      <FilePathData Path="hall/active/bfbfl/img_jdt_di.png" />
+      <FilePathData Path="hall/active/bfbfl/img_line.png" />
+      <FilePathData Path="hall/active/bfbfl/img_store.png" />
+      <FilePathData Path="hall/active/bfbfl/img_top.png" />
+      <FilePathData Path="hall/active/bfbfl/top/btn_top.png" />
+      <FilePathData Path="hall/active/bfbfl/top/img_time.png" />
+      <FilePathData Path="hall/active/bfbfl/top/img_top1.png" />
+      <FilePathData Path="hall/active/bfbfl/top/img_top2.png" />
+      <FilePathData Path="hall/active/bfbfl/top/img_top3.png" />
+      <FilePathData Path="hall/active/bfbfl/top/line2.png" />
+      <FilePathData Path="hall/active/bfbfl/img_3.png" />
+      <FilePathData Path="hall/active/bfbfl/img_award_1.1.png" />
+      <FilePathData Path="hall/active/bfbfl/img_award_1.png" />
+      <FilePathData Path="hall/active/bfbfl/img_award_4.png" />
+      <FilePathData Path="hall/active/bfbfl/img_award_2.png" />
+      <FilePathData Path="hall/active/bfbfl/img_award_5.png" />
+      <FilePathData Path="hall/active/bfbfl/img_award_3.png" />
+      <FilePathData Path="hall/active/bfbfl/img_award_top.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

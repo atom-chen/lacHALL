@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/map/btn_di.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{915,133},{34,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,24}</string>
+			</dict>
+			<key>hall/map/faguang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,5},{105,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,118}</string>
+			</dict>
+			<key>hall/map/fanhui.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{808,109},{53,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,56}</string>
+			</dict>
+			<key>hall/map/btn_anniu_hui.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,109},{76,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,90}</string>
+			</dict>
+			<key>hall/map/bg_tishi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{987,5},{32,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,55}</string>
+			</dict>
+			<key>hall/map/btn_anniu_cheng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{636,109},{76,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,90}</string>
+			</dict>
+			<key>hall/map/btn_anniu_lv.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{722,109},{76,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,90}</string>
+			</dict>
+			<key>hall/map/btn_zuob.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{535,467}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{535,467}</string>
+			</dict>
+			<key>hall/map/btn_anniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,5},{312,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{312,94}</string>
+			</dict>
+			<key>hall/map/btn_quan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{871,133},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>hall/map/btn_xzhong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{808,175},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>map.png</string>
+			<key>realTextureFileName</key>
+			<string>map.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

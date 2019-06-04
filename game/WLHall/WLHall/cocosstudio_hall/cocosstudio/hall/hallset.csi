@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="hallset" Type="Plist" ID="97092446-408f-4ba4-b3d1-c67103257324" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/hallset/btn_fyan.png" />
+      <FilePathData Path="hall/hallset/btn_kfu.png" />
+      <FilePathData Path="hall/hallset/btn_sming.png" />
+      <FilePathData Path="hall/hallset/btn_szhi.png" />
+      <FilePathData Path="hall/hallset/btn_yxiao.png" />
+      <FilePathData Path="hall/hallset/btn_yyue.png" />
+      <FilePathData Path="hall/hallset/btn_qhzh.png" />
+      <FilePathData Path="hall/hallset/btn_jy.png" />
+      <FilePathData Path="hall/hallset/btn_feedback.png" />
+      <FilePathData Path="hall/hallset/img_set.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

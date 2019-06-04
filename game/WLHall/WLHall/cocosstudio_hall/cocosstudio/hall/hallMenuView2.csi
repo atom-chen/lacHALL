@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="hallMenuView2" Type="Plist" ID="1a6d040e-7416-43eb-9a92-ac1db16891ae" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/newhall/hall_main2/btn_bslodingbg.png" />
+      <FilePathData Path="hall/newhall/hall_main2/btn_hd.png" />
+      <FilePathData Path="hall/newhall/hall_main2/btn_hd2.png" />
+      <FilePathData Path="hall/newhall/hall_main2/btn_lj.png" />
+      <FilePathData Path="hall/newhall/hall_main2/btn_sc.png" />
+      <FilePathData Path="hall/newhall/hall_main2/btn_yj.png" />
+      <FilePathData Path="hall/newhall/hall_main2/img_doudou.png" />
+      <FilePathData Path="hall/newhall/hall_main2/img_hyf.png" />
+      <FilePathData Path="hall/newhall/hall_main2/img_line.png" />
+      <FilePathData Path="hall/newhall/hall_main2/img_ysj.png" />
+      <FilePathData Path="hall/newhall/hall_main2/more.png" />
+      <FilePathData Path="hall/newhall/hall_main2/txt_mfld.png" />
+      <FilePathData Path="hall/newhall/hall_main2/txt_ysj.png" />
+      <FilePathData Path="hall/newhall/hall_main2/bag.png" />
+      <FilePathData Path="hall/newhall/hall_main2/bottom_bg.png" />
+      <FilePathData Path="hall/newhall/hall_main2/btn_bj.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

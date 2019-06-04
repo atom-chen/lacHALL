@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="minigames" Type="Plist" ID="1d1d8b18-3790-40cb-8ae2-940e981a77a7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/room/minigames/img_jindutiao_2.png" />
+      <FilePathData Path="hall/room/minigames/bg_jz.png" />
+      <FilePathData Path="hall/room/minigames/bg_gamename.png" />
+      <FilePathData Path="hall/room/minigames/icon_jqqd.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

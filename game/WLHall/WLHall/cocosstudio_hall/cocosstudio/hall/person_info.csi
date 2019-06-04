@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="person_info" Type="Plist" ID="7e9ec411-2e2f-46ec-8b36-5da88d83a66b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/person_info/bangdingshouji.png" />
+      <FilePathData Path="hall/person_info/btn_camera.png" />
+      <FilePathData Path="hall/person_info/btn_photo.png" />
+      <FilePathData Path="hall/person_info/dianxuan.png" />
+      <FilePathData Path="hall/person_info/dianxuan_1.png" />
+      <FilePathData Path="hall/person_info/jiebangshouji.png" />
+      <FilePathData Path="hall/person_info/jihuozhanghao.png" />
+      <FilePathData Path="hall/person_info/kefu.png" />
+      <FilePathData Path="hall/person_info/line.png" />
+      <FilePathData Path="hall/person_info/nicheng_bg.png" />
+      <FilePathData Path="hall/person_info/shimingrenzheng.png" />
+      <FilePathData Path="hall/person_info/tubiaokuang.png" />
+      <FilePathData Path="hall/person_info/wodeziliao.png" />
+      <FilePathData Path="hall/person_info/xiugaimima.png" />
+      <FilePathData Path="hall/person_info/bk_head_bottom.png" />
+      <FilePathData Path="hall/person_info/img_v.png" />
+      <FilePathData Path="hall/person_info/img_vipbg.png" />
+      <FilePathData Path="hall/person_info/img_ziliao.png" />
+      <FilePathData Path="hall/person_info/img_zs.png" />
+      <FilePathData Path="hall/person_info/xiugai.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

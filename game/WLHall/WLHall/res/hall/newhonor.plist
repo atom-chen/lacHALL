@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/newhonor/imf_btn1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{454,94},{57,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{57,43}</string>
+			</dict>
+			<key>hall/newhonor/imf_btn2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{454,155},{56,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,38}</string>
+			</dict>
+			<key>hall/newhonor/img_arrow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{389,195},{31,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{31,37}</string>
+			</dict>
+			<key>hall/newhonor/img_di1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{425,45},{59,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,45}</string>
+			</dict>
+			<key>hall/newhonor/img_di2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{344,224}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{344,224}</string>
+			</dict>
+			<key>hall/newhonor/img_di3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,2},{148,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{148,39}</string>
+			</dict>
+			<key>hall/newhonor/img_help.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{424,197},{33,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{33,33}</string>
+			</dict>
+			<key>hall/newhonor/img_di4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,195},{45,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{45,35}</string>
+			</dict>
+			<key>hall/newhonor/btn_wjx1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{30,230},{24,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{24,23}</string>
+			</dict>
+			<key>hall/newhonor/btn_wjx2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,230},{24,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{24,23}</string>
+			</dict>
+			<key>hall/newhonor/img_suo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,45},{63,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,71}</string>
+			</dict>
+			<key>hall/newhonor/head.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,230},{24,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,24}</string>
+			</dict>
+			<key>hall/newhonor/img_award.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{425,94},{97,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{97,25}</string>
+			</dict>
+			<key>hall/newhonor/img_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{84,230},{1,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1,96}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>newhonor.png</string>
+			<key>realTextureFileName</key>
+			<string>newhonor.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

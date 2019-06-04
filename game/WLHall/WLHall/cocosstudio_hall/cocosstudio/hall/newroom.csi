@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="newroom" Type="Plist" ID="1acdc0b2-cb3c-4426-aecd-2cff7f115060" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/room/newroom/btn_1.png" />
+      <FilePathData Path="hall/room/newroom/btn_2.png" />
+      <FilePathData Path="hall/room/newroom/img_di.png" />
+      <FilePathData Path="hall/room/newroom/img_doudou.png" />
+      <FilePathData Path="hall/room/newroom/img_dz.png" />
+      <FilePathData Path="hall/room/newroom/img_icon.png" />
+      <FilePathData Path="hall/room/newroom/img_kuan.png" />
+      <FilePathData Path="hall/room/newroom/img_mz.png" />
+      <FilePathData Path="hall/room/newroom/img_pack.png" />
+      <FilePathData Path="hall/room/newroom/img_rule.png" />
+      <FilePathData Path="hall/room/newroom/img_ry.png" />
+      <FilePathData Path="hall/room/newroom/img_start.png" />
+      <FilePathData Path="hall/room/newroom/img_guang.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

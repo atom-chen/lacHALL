@@ -1,0 +1,42 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="map_font_0" Type="Plist" ID="5a62ad36-f1d5-4ce1-b23f-149cbd608ae7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/map/map_0/info_anhui.png" />
+      <FilePathData Path="hall/map/map_0/info_beijing.png" />
+      <FilePathData Path="hall/map/map_0/info_chongqing.png" />
+      <FilePathData Path="hall/map/map_0/info_fujian.png" />
+      <FilePathData Path="hall/map/map_0/info_ganshu.png" />
+      <FilePathData Path="hall/map/map_0/info_guangdong.png" />
+      <FilePathData Path="hall/map/map_0/info_guangxi.png" />
+      <FilePathData Path="hall/map/map_0/info_guizhou.png" />
+      <FilePathData Path="hall/map/map_0/info_hainan.png" />
+      <FilePathData Path="hall/map/map_0/info_hebei.png" />
+      <FilePathData Path="hall/map/map_0/info_heilongjiang.png" />
+      <FilePathData Path="hall/map/map_0/info_henan.png" />
+      <FilePathData Path="hall/map/map_0/info_hubei.png" />
+      <FilePathData Path="hall/map/map_0/info_hunan.png" />
+      <FilePathData Path="hall/map/map_0/info_jiangsu.png" />
+      <FilePathData Path="hall/map/map_0/info_jiangxi.png" />
+      <FilePathData Path="hall/map/map_0/info_jilin.png" />
+      <FilePathData Path="hall/map/map_0/info_liaoning.png" />
+      <FilePathData Path="hall/map/map_0/info_neimenggu.png" />
+      <FilePathData Path="hall/map/map_0/info_ningxia.png" />
+      <FilePathData Path="hall/map/map_0/info_sanxi.png" />
+      <FilePathData Path="hall/map/map_0/info_shandong.png" />
+      <FilePathData Path="hall/map/map_0/info_shanghai.png" />
+      <FilePathData Path="hall/map/map_0/info_shanxi.png" />
+      <FilePathData Path="hall/map/map_0/info_sichuan.png" />
+      <FilePathData Path="hall/map/map_0/info_tianjin.png" />
+      <FilePathData Path="hall/map/map_0/info_yunnan.png" />
+      <FilePathData Path="hall/map/map_0/info_xianggang.png" />
+      <FilePathData Path="hall/map/map_0/info_xinj.png" />
+      <FilePathData Path="hall/map/map_0/info_xiz.png" />
+      <FilePathData Path="hall/map/map_0/info_taiwan.png" />
+      <FilePathData Path="hall/map/map_0/info_qingh.png" />
+      <FilePathData Path="hall/map/map_0/info_aomen.png" />
+      <FilePathData Path="hall/map/map_0/info_zhejiang.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

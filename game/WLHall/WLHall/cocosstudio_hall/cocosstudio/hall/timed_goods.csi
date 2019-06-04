@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="timed_goods" Type="Plist" ID="a1e6c9ae-238a-493d-90a8-1cadb74e8c1e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/timed_goods/timed_goods_buy_btn.png" />
+      <FilePathData Path="hall/timed_goods/timed_goods_close.png" />
+      <FilePathData Path="hall/timed_goods/timed_goods_count_bg.png" />
+      <FilePathData Path="hall/timed_goods/timed_goods_dz.png" />
+      <FilePathData Path="hall/timed_goods/timed_goods_gift_bg.png" />
+      <FilePathData Path="hall/timed_goods/timed_goods_gold_1.png" />
+      <FilePathData Path="hall/timed_goods/timed_goods_gold_2.png" />
+      <FilePathData Path="hall/timed_goods/timed_goods_gold_3.png" />
+      <FilePathData Path="hall/timed_goods/timed_goods_red_line.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

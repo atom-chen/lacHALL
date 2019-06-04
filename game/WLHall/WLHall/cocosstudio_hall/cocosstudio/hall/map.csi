@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="map" Type="Plist" ID="4a97c26a-9b2e-4295-bb83-d16cb3162a71" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="5" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/map/bg_tishi.png" />
+      <FilePathData Path="hall/map/btn_anniu.png" />
+      <FilePathData Path="hall/map/btn_anniu_cheng.png" />
+      <FilePathData Path="hall/map/btn_anniu_hui.png" />
+      <FilePathData Path="hall/map/btn_anniu_lv.png" />
+      <FilePathData Path="hall/map/btn_di.png" />
+      <FilePathData Path="hall/map/btn_quan.png" />
+      <FilePathData Path="hall/map/btn_xzhong.png" />
+      <FilePathData Path="hall/map/btn_zuob.png" />
+      <FilePathData Path="hall/map/faguang.png" />
+      <FilePathData Path="hall/map/fanhui.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

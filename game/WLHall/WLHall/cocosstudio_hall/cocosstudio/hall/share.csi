@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="share" Type="Plist" ID="b5bc0a0e-bd27-4868-aa91-d0d0dfa0b383" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/share/board_white.png" />
+      <FilePathData Path="hall/share/close.png" />
+      <FilePathData Path="hall/share/dagou.png" />
+      <FilePathData Path="hall/share/got.png" />
+      <FilePathData Path="hall/share/label_need.png" />
+      <FilePathData Path="hall/share/txt_share_friends.png" />
+      <FilePathData Path="hall/share/txt_share_moments.png" />
+      <FilePathData Path="hall/share/frame_pay.png" />
+      <FilePathData Path="hall/share/txt_share_youqu.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

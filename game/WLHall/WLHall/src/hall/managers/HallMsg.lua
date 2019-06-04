@@ -1,0 +1,93 @@
+local HallMsg={
+	USER_JOIN_REPLY	= 8193,					--//进入大厅应答
+	SYSTEM_MESSAGE		= 8194,					--//系统消息
+	UPDATE_ROOM_PLAYERS = 8195,				--//更新玩家人数
+	ADD_ROOM			= 8196,					--//新房间加入
+	REMOVE_ROOM		= 8197,					--//房间移除
+	UPDATE_VERSION		= 8198,					--//更新版本
+	JOIN_GAME 			= 8199,					--//加入游戏
+	JOIN_GAME_REPLY	= 8200,					--//加入房间失败
+	LEAVE_GAME 		= 8201,					--//离开游戏
+	LEAVE_GAME_REPLY	= 8202,					--//离开游戏应答
+	EXCHANGE_MONEY 	= 8203,					--//游戏币兑换,8203
+	EXCHANGE_MONEY_REPLY = 8204,				--//游戏币兑换应答,8204
+	CHANGE_USER_INFO   = 8205,					--//更改用户信息,8205
+	CHANGE_USER_INFO_REPLY=8206,			--//更改用户信息应答,8206
+	USE_PROP 			= 8207,					--//使用道具,8207
+	USE_PROP_REPLY 	= 8208,					--//使用道具应答,8208
+	PROP_LIST			= 8209,					--//道具列表(服务器发送)		8209
+	MSGS_LIST 			= 8210,					--//*离线消息列表	8210
+	MISSION_LIST 		= 8211,					--//任务列表		8211
+	GET_RANK_LIST      = 8212,					--//排行榜			8212
+	GET_RANK_LIST_REPLY= 8213,					--//排行榜应答		8213
+	MISSION_COMPLETE 	= 8214,					--//任务完成		8214
+	MISSION_COMPLETE_REPLY = 8215,				--//任务完成应答	8215
+	USER_REPORT    	= 8216,					--//用户签到		8216
+	USER_REPORT_REPLY	= 8217,					--//用户签到应答	8217
+	GET_SHOPINFO 		= 8218,					--//获得商店信息	8218
+	GET_SHOPINFO_REPLY	= 8219,					--//获得商店信息应答8219
+	BUY_PROP 			= 8220,					--//购买道具		8220
+	BUY_PROP_REPLY		= 8221,					--//购买道具应答	8221
+	LOAD_EFFORT_DATA 	= 8222,					--//获得成就数据	8222
+	LOAD_EFFORT_DATA_REPLY=8223,			--//获得成就数据应答8223
+	CHANGE_PASSWORD 	= 8224,					--//修改密码
+	CHANGE_PASSWORD_REPLY = 8225,				--//修改密码应答
+	SET_SECOND_PASSWORD = 8226,				--//设置二级密码
+	SET_SECOND_PASSWORD_REPLY= 8227,			--//设置二级密码应答
+	BIND_MACHINE 		= 8228,
+	BIND_MACHINE_REPLY = 8229,
+	MISSION_COMPLETE_LIST = 8230,				--//完成任务列表
+	UPDATE_USER_DATA 	= 8231,					--//更新用户数据
+	CHANGE_USER_INFO_MOBILE = 8232,			--//移动平台更改用户信息
+	EXCHANGE_LOTTERY 	= 8233,					--//元宝兑换
+	EXCHANGE_LOTTERY_REPLY = 8234,
+	EXCHANGE_PROP_CARD = 8235,					--//兑换道具卡片
+	EXCHANGE_PROP_CARD_REPLY = 8236,			--//兑换道具卡片应答
+	CHECK_SECOND_PASSWORD = 8237,				--//检测二级密码
+	CHECK_SECOND_PASSWORD_REPLY = 8238,		--//检测二级密码应答
+	UPDATE_GAME_MISSION_DATA = 8239,			--//更新游戏关卡数据
+	GET_GAME_MISSION_LIST = 8240,				--//获得游戏关卡任务
+	GET_GAME_MISSION_LIST_REPLY = 8241,		--//获得游戏关卡任务应答
+	GAME_MISSION_COMPLETE = 8242,				--//游戏任务提交
+	GAME_MISSION_COMPLETE_REPLY = 8243,		--//游戏任务提交应答
+	SET_USER_IDCARD 	= 8244,					--//设置身份证信息
+	SET_USER_IDCARD_REPLY = 8245,				--//设置身份证应答
+	GET_USER_GAMEDATA 	= 8246,					--//拉取用户游戏数据
+	GET_USER_GAMEDATA_REPLY= 8247,				--//拉取用户游戏数据应答
+	DATE_CHANGE 		= 8250,				--//服务器时间改变
+	COMMAND 			= 8251,
+	USER_JOIN_EX =8252,						--		//玩家进入
+	ACTIVE_ACCOUNT =8253,							--//激活帐号
+	ACTIVE_ACCOUNT_REPLY=8254,					--	//激活帐号应答
+	CHANGE_FACE =8255,							--	//改变头像
+	QUERY_ROOMKEY =8256,        --				//查询房间ID
+	QUERY_ROOMKEY_REPLY =8257,		--				//查询房间ID应答
+
+	QUERY_USER_DESK=8258,						--//查询用户房间ID列表
+	QUERY_USER_DESK_REPLY=8259,					--//查询用户房间ID列表应答
+	CREATE_ROOM=8260,							--//用户创建房间
+	CREATE_ROOM_REPLY=8261,						--//用户创建房间应答
+	CREATE_ROOM_FAILED=8262,					--//创建房间失败
+	DISBAND_ROOM=8263,							--//用户解散房间
+	DISBAND_ROOM_REPLY=8264,					--//用户解散房间应答
+	QUERY_DESKINFO=8265,						--//查询桌子状态
+	QUERY_DESKINFO_REPLY=8266,					--//查询桌子状态应答
+	KICK_PLAYER_BY_OWNER=8267,					--//踢出玩家(代开桌子上)8267
+    KICK_PLAYER_BY_OWNER_REPLY=8268,			--//踢出玩家应答(代开桌子上)8268
+    MSG_HALL_MISSION_COMPLETE2=8277,            --//任务完成（扩展）
+
+    MSG_HALL_QUERY_CONFIG_INFO = 8283,						--// 查询预报名配置信息
+    MSG_HALL_QUERY_CONFIG_INFO_REPLY = 8284,				--// 查询预报名配置信息应答
+    MSG_HALL_SIGNUP = 8285,									--// 预报名消息
+    MSG_HALL_UNSIGNUP = 8286,								--// 取消预报名
+    MSG_HALL_SIGN_UP_MATCH_REPLY = 8287,					--// 预报名应答
+
+    MSG_HALL_SIGN_UP_START_REPLY = 8288,					--// 预报名比赛开始通知
+
+	MSG_HALL_SIGN_UP_PLAYERS_UPDATE = 8289,					--// 报名人数变化通知
+	MSG_HALL_TO_CLIENT_ROOMCANIN = 8290,		--// 提前进入比赛房间通知
+	MSG_HALL_TO_CLIENT_PK_ERR = 8291,			--// 比赛开赛失败通知
+}
+
+return HallMsg
+

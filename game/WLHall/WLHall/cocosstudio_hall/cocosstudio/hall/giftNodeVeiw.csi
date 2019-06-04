@@ -1,0 +1,23 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="giftNodeVeiw" Type="Plist" ID="5242c7a4-887b-475e-b5d2-060de46211de" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/gift/Buttons_jia.png" />
+      <FilePathData Path="hall/gift/Buttons_jian.png" />
+      <FilePathData Path="hall/gift/frame_6.png" />
+      <FilePathData Path="hall/gift/frame_shuliangdi.png" />
+      <FilePathData Path="hall/gift/icon_chenggong.png" />
+      <FilePathData Path="hall/gift/icon_duihuanjilu.png" />
+      <FilePathData Path="hall/gift/icon_hongbaoquan.png" />
+      <FilePathData Path="hall/gift/icon_huafeiquan.png" />
+      <FilePathData Path="hall/gift/icon_lipinquan.png" />
+      <FilePathData Path="hall/gift/icon_weixin_1.png" />
+      <FilePathData Path="hall/gift/record_line.png" />
+      <FilePathData Path="hall/gift/frame_1.png" />
+      <FilePathData Path="hall/gift/img_loading.png" />
+      <FilePathData Path="hall/gift/duobao_bg.png" />
+      <FilePathData Path="hall/gift/duobao_icon.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="lotto" Type="Plist" ID="877fcc10-73af-45d8-b1cd-a16b8ba798df" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/lotto/dial_btn_1.png" />
+      <FilePathData Path="hall/lotto/dial_btn_2.png" />
+      <FilePathData Path="hall/lotto/dial_btn_3.png" />
+      <FilePathData Path="hall/lotto/dial_dh.png" />
+      <FilePathData Path="hall/lotto/dial_pic_dwcj_1.png" />
+      <FilePathData Path="hall/lotto/dial_pic_dwcj_2.png" />
+      <FilePathData Path="hall/lotto/dial_pic_zz.png" />
+      <FilePathData Path="hall/lotto/com_btn_close.png" />
+      <FilePathData Path="hall/lotto/img_gxhd.png" />
+      <FilePathData Path="hall/lotto/item_bg.png" />
+      <FilePathData Path="hall/lotto/cj_bg.png" />
+      <FilePathData Path="hall/lotto/title_xydzp.png" />
+      <FilePathData Path="hall/lotto/img_rule.png" />
+      <FilePathData Path="hall/lotto/logo.png" />
+      <FilePathData Path="hall/lotto/bg_shul.png" />
+      <FilePathData Path="hall/lotto/cb_com.png" />
+      <FilePathData Path="hall/lotto/cb_sel.png" />
+      <FilePathData Path="hall/lotto/str_xxhg.png" />
+      <FilePathData Path="hall/lotto/str_zlyc.png" />
+      <FilePathData Path="hall/lotto/yb_dial_pic_frame_lamp.png" />
+      <FilePathData Path="hall/lotto/img_wx.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

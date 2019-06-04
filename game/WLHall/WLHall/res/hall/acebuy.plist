@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/popupGoodsView/aceBuyView/alPay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{457,2},{148,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{180,52}</string>
+			</dict>
+			<key>hall/popupGoodsView/aceBuyView/appPay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{401,2},{167,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{180,52}</string>
+			</dict>
+			<key>hall/popupGoodsView/aceBuyView/buy_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{339,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{340,86}</string>
+			</dict>
+			<key>hall/popupGoodsView/aceBuyView/close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{457,154},{48,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+			<key>hall/popupGoodsView/aceBuyView/erect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,206},{3,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{3,87}</string>
+			</dict>
+			<key>hall/popupGoodsView/aceBuyView/frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{401,173},{29,29}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,30}</string>
+			</dict>
+			<key>hall/popupGoodsView/aceBuyView/wxPay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{345,2},{179,52}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{180,52}</string>
+			</dict>
+			<key>hall/popupGoodsView/aceBuyView/line_red.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{434,173},{10,4}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,4}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>acebuy.png</string>
+			<key>realTextureFileName</key>
+			<string>acebuy.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>DX-VM</string>
+	<key>CFBundleIdentifier</key>
+	<string>dx-vm.lite</string>
+	<key>CFBundleName</key>
+	<string>DX-VM</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0</string>
+	<key>CompatibilityVersion</key>
+	<integer>2</integer>
+	<key>ContactInformation</key>
+	<string>https://www.dingxiang-inc.com</string>
+</dict>
+</plist>

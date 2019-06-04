@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/share/board_white.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{224,2},{164,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{164,50}</string>
+			</dict>
+			<key>hall/share/close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{142,80},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+			<key>hall/share/dagou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{142,2},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>hall/share/got.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{142,134},{82,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{82,26}</string>
+			</dict>
+			<key>hall/share/label_need.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,228},{126,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,26}</string>
+			</dict>
+			<key>hall/share/txt_share_friends.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,2},{222,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{222,44}</string>
+			</dict>
+			<key>hall/share/txt_share_moments.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{240,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,42}</string>
+			</dict>
+			<key>hall/share/frame_pay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{196,80},{16,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,16}</string>
+			</dict>
+			<key>hall/share/txt_share_youqu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{48,2},{240,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,42}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>share.png</string>
+			<key>realTextureFileName</key>
+			<string>share.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

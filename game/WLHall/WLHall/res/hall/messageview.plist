@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/announcement/btn_zlw.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,113},{40,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,36}</string>
+			</dict>
+			<key>hall/announcement/btn_ylq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,2},{56,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,56}</string>
+			</dict>
+			<key>hall/announcement/bg_icon_jl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{113,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,112}</string>
+			</dict>
+			<key>hall/announcement/icon_xf_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,57},{51,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,48}</string>
+			</dict>
+			<key>hall/announcement/icon_xf_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,2},{51,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,51}</string>
+			</dict>
+			<key>hall/announcement/btn_zfggg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,62},{47,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,47}</string>
+			</dict>
+			<key>hall/announcement/btn_zfgxx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,109},{47,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,31}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>messageview.png</string>
+			<key>realTextureFileName</key>
+			<string>messageview.png</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

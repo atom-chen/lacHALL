@@ -1,0 +1,56 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="common" Type="Plist" ID="ec987df3-5cad-4624-a4d4-4b9ca69979a4" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/common/bg_bg_1.png" />
+      <FilePathData Path="hall/common/bk_head_ico.png" />
+      <FilePathData Path="hall/common/bk_input.png" />
+      <FilePathData Path="hall/common/btn.png" />
+      <FilePathData Path="hall/common/btn_blue.png" />
+      <FilePathData Path="hall/common/btn_gps.png" />
+      <FilePathData Path="hall/common/btn_green.png" />
+      <FilePathData Path="hall/common/btn_grey.png" />
+      <FilePathData Path="hall/common/btn_sctp_mask.png" />
+      <FilePathData Path="hall/common/btn_x.png" />
+      <FilePathData Path="hall/common/cb_single_act.png" />
+      <FilePathData Path="hall/common/cb_single_nor.png" />
+      <FilePathData Path="hall/common/info_bubble.png" />
+      <FilePathData Path="hall/common/line.png" />
+      <FilePathData Path="hall/common/loading_halo.png" />
+      <FilePathData Path="hall/common/loading_peach.png" />
+      <FilePathData Path="hall/common/pixels_alpha.png" />
+      <FilePathData Path="hall/common/pixels_black.png" />
+      <FilePathData Path="hall/common/pixels_white.png" />
+      <FilePathData Path="hall/common/loading_circle.png" />
+      <FilePathData Path="hall/common/loading_circle_bg.png" />
+      <FilePathData Path="hall/common/room_mask.png" />
+      <FilePathData Path="hall/common/pic_Loading.png" />
+      <FilePathData Path="hall/common/head_frame.png" />
+      <FilePathData Path="hall/common/btn_1.png" />
+      <FilePathData Path="hall/common/new_btn_close.png" />
+      <FilePathData Path="hall/common/new_line.png" />
+      <FilePathData Path="hall/common/new_pop_bg.png" />
+      <FilePathData Path="hall/common/new_pop_gray_bg.png" />
+      <FilePathData Path="hall/common/new_pop_left_bg.png" />
+      <FilePathData Path="hall/common/new_pop_right_bg.png" />
+      <FilePathData Path="hall/common/new_pop_select_bg.png" />
+      <FilePathData Path="hall/common/new_service.png" />
+      <FilePathData Path="hall/common/new_unread_pt.png" />
+      <FilePathData Path="hall/common/new_virtual_line.png" />
+      <FilePathData Path="hall/common/diamond.png" />
+      <FilePathData Path="hall/common/dou_1.png" />
+      <FilePathData Path="hall/common/dou_2.png" />
+      <FilePathData Path="hall/common/dou_3.png" />
+      <FilePathData Path="hall/common/dou_4.png" />
+      <FilePathData Path="hall/common/new_pop_bg_2.png" />
+      <FilePathData Path="hall/common/new_btn_b.png" />
+      <FilePathData Path="hall/common/new_btn_o.png" />
+      <FilePathData Path="hall/common/new_btn_noangle.png" />
+      <FilePathData Path="hall/common/new_pop_bg_3.png" />
+      <FilePathData Path="hall/common/new_pop_bg_4.png" />
+      <FilePathData Path="hall/common/img_gxhd_bg.png" />
+      <FilePathData Path="hall/common/img_gxhd_lz.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

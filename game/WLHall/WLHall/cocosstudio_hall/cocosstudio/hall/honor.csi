@@ -1,0 +1,35 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="honor" Type="Plist" ID="5fff8721-bf86-4672-86d2-5320dd17bc0e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/honor/arrow2.png" />
+      <FilePathData Path="hall/honor/btn_level.png" />
+      <FilePathData Path="hall/honor/btn_rank.png" />
+      <FilePathData Path="hall/honor/star.png" />
+      <FilePathData Path="hall/honor/starbg.png" />
+      <FilePathData Path="hall/honor/btn_brown.png" />
+      <FilePathData Path="hall/honor/img_wh.png" />
+      <FilePathData Path="hall/honor/btn_brown_1.png" />
+      <FilePathData Path="hall/honor/bg_white.png" />
+      <FilePathData Path="hall/honor/btn_zang_1.png" />
+      <FilePathData Path="hall/honor/btn_zang_2.png" />
+      <FilePathData Path="hall/honor/rank_1.png" />
+      <FilePathData Path="hall/honor/rank_2.png" />
+      <FilePathData Path="hall/honor/rank_3.png" />
+      <FilePathData Path="hall/honor/img_mj.png" />
+      <FilePathData Path="hall/honor/item_bg_2.png" />
+      <FilePathData Path="hall/honor/lock.png" />
+      <FilePathData Path="hall/honor/gift_item_bg.png" />
+      <FilePathData Path="hall/honor/pm_bg.png" />
+      <FilePathData Path="hall/honor/btn_share.png" />
+      <FilePathData Path="hall/honor/gift_grade_bg.png" />
+      <FilePathData Path="hall/honor/txt_hytz.png" />
+      <FilePathData Path="hall/honor/img_wsb.png" />
+      <FilePathData Path="hall/honor/shengxing.png" />
+      <FilePathData Path="hall/honor/shengduan.png" />
+      <FilePathData Path="hall/honor/share.png" />
+      <FilePathData Path="hall/honor/base.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

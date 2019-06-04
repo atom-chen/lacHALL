@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/popupGoodsView/returnView/btn_bk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{846,2},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+			<key>hall/popupGoodsView/returnView/btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{704,2},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+			<key>hall/popupGoodsView/returnView/img_bb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{896,2},{30,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,30}</string>
+			</dict>
+			<key>hall/popupGoodsView/returnView/img_btn_wx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{202,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{202,56}</string>
+			</dict>
+			<key>hall/popupGoodsView/returnView/img_btn_zfb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{208,2},{202,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{202,56}</string>
+			</dict>
+			<key>hall/popupGoodsView/returnView/img_give.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{620,2},{76,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{76,80}</string>
+			</dict>
+			<key>hall/popupGoodsView/returnView/img_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{930,2},{7,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{7,2}</string>
+			</dict>
+			<key>hall/popupGoodsView/returnView/img_return.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{780,2},{62,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,60}</string>
+			</dict>
+			<key>hall/popupGoodsView/returnView/img_btn_apple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{414,2},{202,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{202,56}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>return_gold.png</string>
+			<key>realTextureFileName</key>
+			<string>return_gold.png</string>
+			<key>size</key>
+			<string>{1024,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/welfare/icon_jihuo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{688,2},{78,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,87}</string>
+			</dict>
+			<key>hall/welfare/icon_share.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{365,153},{108,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,112}</string>
+			</dict>
+			<key>hall/welfare/icon_shiming.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{364,2},{147,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{147,112}</string>
+			</dict>
+			<key>hall/welfare/icon_shouchong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{430,265},{111,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{111,99}</string>
+			</dict>
+			<key>hall/welfare/img_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{611,348},{68,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,68}</string>
+			</dict>
+			<key>hall/welfare/img_diban1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,268},{210,222}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{210,222}</string>
+			</dict>
+			<key>hall/welfare/img_diban2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,268},{210,222}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{210,222}</string>
+			</dict>
+			<key>hall/welfare/icon_czlb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{481,126},{111,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{111,99}</string>
+			</dict>
+			<key>hall/welfare/img_finish.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{534,378},{83,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{83,73}</string>
+			</dict>
+			<key>hall/welfare/img_locked.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{584,179},{55,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{55,67}</string>
+			</dict>
+			<key>hall/welfare/img_xsqd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{258,2},{166,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{166,102}</string>
+			</dict>
+			<key>hall/welfare/icon_gzyl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{533,241},{103,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{103,86}</string>
+			</dict>
+			<key>hall/welfare/icon_mrqd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{258,172},{103,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{103,91}</string>
+			</dict>
+			<key>hall/welfare/icon_pjyl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{604,2},{91,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,80}</string>
+			</dict>
+			<key>hall/welfare/icon_xsqd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{430,380},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>hall/welfare/img_zhezhao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{533,348},{26,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,26}</string>
+			</dict>
+			<key>hall/welfare/img_guang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,2},{120,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,120}</string>
+			</dict>
+			<key>hall/welfare/img_kefu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{584,126},{162,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,49}</string>
+			</dict>
+			<key>hall/welfare/node_ani.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{252,262}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{252,262}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>welfare.png</string>
+			<key>realTextureFileName</key>
+			<string>welfare.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

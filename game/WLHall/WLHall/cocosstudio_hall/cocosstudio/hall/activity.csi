@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="activity" Type="Plist" ID="af3e9604-cdf3-421a-9b62-60d7e77dc52e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/active/Tab_gzxy.png" />
+      <FilePathData Path="hall/active/Tab_xshd.png" />
+    </ImageFiles>
+    <MaxSize Width="128" Height="256" />
+  </Content>
+</PlistInfoProjectFile>
