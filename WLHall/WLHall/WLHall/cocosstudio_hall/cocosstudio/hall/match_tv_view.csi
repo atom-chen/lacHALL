@@ -1,0 +1,42 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="match_tv_view" Type="Plist" ID="f6bbe521-941c-442d-896e-aa0d402e55bd" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/room/match/match_apply/bg.png" />
+      <FilePathData Path="hall/room/match/match_apply/btn.png" />
+      <FilePathData Path="hall/room/match/match_apply/icon_waring.png" />
+      <FilePathData Path="hall/room/match/match_apply/img_areadi.png" />
+      <FilePathData Path="hall/room/match/match_apply/line.png" />
+      <FilePathData Path="hall/room/match/match_apply/right.png" />
+      <FilePathData Path="hall/room/match/match_apply/wrong.png" />
+      <FilePathData Path="hall/room/match/match_rank/head_di.png" />
+      <FilePathData Path="hall/room/match/match_rank/img_bg.png" />
+      <FilePathData Path="hall/room/match/match_rank/img_di.png" />
+      <FilePathData Path="hall/room/match/match_rank/img_jx.png" />
+      <FilePathData Path="hall/room/match/match_rank/img_line.png" />
+      <FilePathData Path="hall/room/match/match_rank/img_ticket.png" />
+      <FilePathData Path="hall/room/match/match_rank/img_ticket1.png" />
+      <FilePathData Path="hall/room/match/match_rank/img_tv.png" />
+      <FilePathData Path="hall/room/match/match_rank/my_rank.png" />
+      <FilePathData Path="hall/room/match/match_rank/rank_di.png" />
+      <FilePathData Path="hall/room/match/match_television/img_label.png" />
+      <FilePathData Path="hall/room/match/match_television/img_unopen.png" />
+      <FilePathData Path="hall/room/match/select/btn_match.png" />
+      <FilePathData Path="hall/room/match/select/img_1.png" />
+      <FilePathData Path="hall/room/match/select/img_2.png" />
+      <FilePathData Path="hall/room/match/select/img_3.png" />
+      <FilePathData Path="hall/room/match/select/img_close.png" />
+      <FilePathData Path="hall/room/match/select/img_day.png" />
+      <FilePathData Path="hall/room/match/select/img_jqqd.png" />
+      <FilePathData Path="hall/room/match/select/img_line.png" />
+      <FilePathData Path="hall/room/match/select/img_month.png" />
+      <FilePathData Path="hall/room/match/select/img_rank.png" />
+      <FilePathData Path="hall/room/match/select/img_week.png" />
+      <FilePathData Path="hall/room/match/select/txt_title.png" />
+      <FilePathData Path="hall/room/match/match_television/img_di.png" />
+      <FilePathData Path="hall/room/match/match_television/img_di2.png" />
+      <FilePathData Path="hall/room/match/match_television/img_tv.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

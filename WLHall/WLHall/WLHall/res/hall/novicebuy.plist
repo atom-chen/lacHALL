@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/popupGoodsView/novicebuyview/buy_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,489},{20,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,20}</string>
+			</dict>
+			<key>hall/popupGoodsView/novicebuyview/img_alipay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,220},{186,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{186,50}</string>
+			</dict>
+			<key>hall/popupGoodsView/novicebuyview/img_apple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,410},{186,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{186,50}</string>
+			</dict>
+			<key>hall/popupGoodsView/novicebuyview/img_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,220},{64,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+			<key>hall/popupGoodsView/novicebuyview/img_datu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{214,214}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{214,214}</string>
+			</dict>
+			<key>hall/popupGoodsView/novicebuyview/img_diban.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,288},{66,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{66,58}</string>
+			</dict>
+			<key>hall/popupGoodsView/novicebuyview/img_plus.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,464},{21,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{21,21}</string>
+			</dict>
+			<key>hall/popupGoodsView/novicebuyview/img_weixin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{56,220},{186,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{186,50}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>novicebuy.png</string>
+			<key>realTextureFileName</key>
+			<string>novicebuy.png</string>
+			<key>size</key>
+			<string>{256,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

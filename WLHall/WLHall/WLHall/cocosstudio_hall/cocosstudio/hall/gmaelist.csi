@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="gmaelist" Type="Plist" ID="4014f50a-e995-4d29-b567-e92b52db9819" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/newgamelist/btn_mj1.png" />
+      <FilePathData Path="hall/newgamelist/btn_mj2.png" />
+      <FilePathData Path="hall/newgamelist/btn_pk1.png" />
+      <FilePathData Path="hall/newgamelist/btn_pk2.png" />
+      <FilePathData Path="hall/newgamelist/btn_xx1.png" />
+      <FilePathData Path="hall/newgamelist/btn_xx2.png" />
+      <FilePathData Path="hall/newgamelist/img_award.png" />
+      <FilePathData Path="hall/newgamelist/img_di.png" />
+      <FilePathData Path="hall/newgamelist/img_rshu2.png" />
+      <FilePathData Path="hall/newgamelist/img_rshu3.png" />
+      <FilePathData Path="hall/newgamelist/cbtnlose.png" />
+      <FilePathData Path="hall/newgamelist/loading_circle_1.png" />
+      <FilePathData Path="hall/newgamelist/loading_circle_2.png" />
+      <FilePathData Path="hall/newgamelist/img_circle_bg.png" />
+      <FilePathData Path="hall/newgamelist/img_add.png" />
+      <FilePathData Path="hall/newgamelist/img_item_line.png" />
+      <FilePathData Path="hall/newgamelist/img_bg1.png" />
+      <FilePathData Path="hall/newgamelist/line.png" />
+      <FilePathData Path="hall/newgamelist/fish_close.png" />
+      <FilePathData Path="hall/newgamelist/img_fish.png" />
+      <FilePathData Path="hall/newgamelist/fish_bg.png" />
+      <FilePathData Path="hall/newgamelist/img_xing.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

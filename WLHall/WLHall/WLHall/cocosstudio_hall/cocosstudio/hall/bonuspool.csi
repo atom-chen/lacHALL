@@ -1,0 +1,33 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="bonuspool" Type="Plist" ID="72ebe343-3fff-42ae-8e42-22741ba57757" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/active/bonuspool/txt_bonus_pool.png" />
+      <FilePathData Path="hall/active/bonuspool/RMB.png" />
+      <FilePathData Path="hall/active/bonuspool/phb.png" />
+      <FilePathData Path="hall/active/bonuspool/lb_price_bottom.png" />
+      <FilePathData Path="hall/active/bonuspool/lb_bottom.png" />
+      <FilePathData Path="hall/active/bonuspool/lb_5.png" />
+      <FilePathData Path="hall/active/bonuspool/lb_4.png" />
+      <FilePathData Path="hall/active/bonuspool/lb_3.png" />
+      <FilePathData Path="hall/active/bonuspool/lb_2.png" />
+      <FilePathData Path="hall/active/bonuspool/lb_1.png" />
+      <FilePathData Path="hall/active/bonuspool/dou.png" />
+      <FilePathData Path="hall/active/bonuspool/buy_btn.png" />
+      <FilePathData Path="hall/active/bonuspool/btn_buy.png" />
+      <FilePathData Path="hall/active/bonuspool/bonus_pool_bottom.png" />
+      <FilePathData Path="hall/active/bonuspool/active_rule.png" />
+      <FilePathData Path="hall/active/bonuspool/rule/underLine.png" />
+      <FilePathData Path="hall/active/bonuspool/fight/bottom.png" />
+      <FilePathData Path="hall/active/bonuspool/fight/class_item.png" />
+      <FilePathData Path="hall/active/bonuspool/fight/copper_cup.png" />
+      <FilePathData Path="hall/active/bonuspool/fight/gold_cup.png" />
+      <FilePathData Path="hall/active/bonuspool/fight/silver_cup.png" />
+      <FilePathData Path="hall/active/bonuspool/fight/title.png" />
+      <FilePathData Path="hall/active/bonuspool/fight/clickRankBottom.png" />
+      <FilePathData Path="hall/active/bonuspool/time_bg.png" />
+      <FilePathData Path="hall/active/bonuspool/fight/time_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

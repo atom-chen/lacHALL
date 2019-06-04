@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="acebuy" Type="Plist" ID="21ec3d26-1b53-429e-b710-5f2744eb2232" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/popupGoodsView/aceBuyView/alPay.png" />
+      <FilePathData Path="hall/popupGoodsView/aceBuyView/appPay.png" />
+      <FilePathData Path="hall/popupGoodsView/aceBuyView/buy_btn.png" />
+      <FilePathData Path="hall/popupGoodsView/aceBuyView/close.png" />
+      <FilePathData Path="hall/popupGoodsView/aceBuyView/erect.png" />
+      <FilePathData Path="hall/popupGoodsView/aceBuyView/frame.png" />
+      <FilePathData Path="hall/popupGoodsView/aceBuyView/wxPay.png" />
+      <FilePathData Path="hall/popupGoodsView/aceBuyView/line_red.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="vipbuyview" Type="Plist" ID="989b7866-7408-4889-892d-5fceb876fd91" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/popupGoodsView/vipBuyView/apple_pay.png" />
+      <FilePathData Path="hall/popupGoodsView/vipBuyView/btn_close.png" />
+      <FilePathData Path="hall/popupGoodsView/vipBuyView/weixin_pay.png" />
+      <FilePathData Path="hall/popupGoodsView/vipBuyView/white_edition.png" />
+      <FilePathData Path="hall/popupGoodsView/vipBuyView/zhifubao_pay.png" />
+      <FilePathData Path="hall/popupGoodsView/vipBuyView/diban.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

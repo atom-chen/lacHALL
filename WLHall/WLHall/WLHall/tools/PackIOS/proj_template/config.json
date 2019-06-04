@@ -1,0 +1,30 @@
+{
+    "project_name" : "WeiLeProjV3",
+    "scheme_name" : "WeiLeProjV3-mobile",
+    "project_dir" : "../../../frameworks/runtime-src/proj.ios_mac",
+    "info_plist_path" : "../../../frameworks/runtime-src/proj.ios_mac/ios/Info.plist",
+    "encrypt_script" : "../../ResEncrypt/ResEncrypt.py",
+    "icons_source" : "./icons",
+    "icons_target" : "../../../frameworks/runtime-src/proj.ios_mac/ios/images/icons",
+    "launch_iamge_source" : "./launch_iamge",
+    "launch_iamge_target" : "../../../frameworks/runtime-src/proj.ios_mac/ios/Images.xcassets/LaunchImage.launchimage",
+    "cfg_files" : "./cfg",
+
+    "game_name" : "测试打包", 
+    "pkg_name": "com.weile.MJDQ", 
+    "version_name": "1.0.1",
+    "build_name" : "1.0.1",
+    "app_scheme" : "从微信内点击链接跳到房间的关键字",
+    "weixin_id" : "微信登录/分享的ID，多个ID以逗号隔开",
+    "track_id" : "热云 app key",
+    "games": [
+          "common", "mj_common"
+      ],
+    
+    "p12_path": "../certificate/Distribution.p12",
+    "p12_password": "1",
+
+    "archive_type" : "AdHoc",
+    "profile_path_AdHoc": "../certificate/AdHoc.mobileprovision", 
+    "profile_path_AppStore": "../certificate/Distribution.mobileprovision"
+}

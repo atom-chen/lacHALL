@@ -1,0 +1,11 @@
+{
+    "6" : {
+        "do_file": {
+            "srcfile" : "hot_run_v6.lua",
+            "dstpath" : "src"
+        },
+        "del_files": [
+            "ImageCache"
+        ]
+    }
+}

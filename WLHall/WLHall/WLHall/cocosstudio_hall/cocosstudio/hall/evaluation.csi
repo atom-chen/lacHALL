@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="evaluation" Type="Plist" ID="a0936476-7e50-4f63-93f2-62fa34ac51d8" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/welfare/pjyl/img_close.png" />
+      <FilePathData Path="hall/welfare/pjyl/img_node.png" />
+      <FilePathData Path="hall/welfare/pjyl/img_pingjia.png" />
+      <FilePathData Path="hall/welfare/pjyl/img_pjyilingqu.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

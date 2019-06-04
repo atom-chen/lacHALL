@@ -1,0 +1,37 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="jx_room" Type="Plist" ID="bc8b6a9c-e48a-4199-9a16-4c1ef05e955a" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/room/jxroom/join_close.png" />
+      <FilePathData Path="hall/room/jxroom/join_bg_1.png" />
+      <FilePathData Path="hall/room/jxroom/join_bg_2.png" />
+      <FilePathData Path="hall/room/jxroom/join_del.png" />
+      <FilePathData Path="hall/room/jxroom/join_line.png" />
+      <FilePathData Path="hall/room/jxroom/join_num_bg.png" />
+      <FilePathData Path="hall/room/jxroom/create_bg.png" />
+      <FilePathData Path="hall/room/jxroom/create_btn_cjfj.png" />
+      <FilePathData Path="hall/room/jxroom/create_btn_gx.png" />
+      <FilePathData Path="hall/room/jxroom/create_cb_1.png" />
+      <FilePathData Path="hall/room/jxroom/create_cb_2.png" />
+      <FilePathData Path="hall/room/jxroom/create_cb_3.png" />
+      <FilePathData Path="hall/room/jxroom/create_cb_4.png" />
+      <FilePathData Path="hall/room/jxroom/create_line.png" />
+      <FilePathData Path="hall/room/jxroom/create_tab_1.png" />
+      <FilePathData Path="hall/room/jxroom/create_tab_2.png" />
+      <FilePathData Path="hall/room/jxroom/create_btn_bc.png" />
+      <FilePathData Path="hall/room/jxroom/record_flag.png" />
+      <FilePathData Path="hall/room/jxroom/record_fz.png" />
+      <FilePathData Path="hall/room/jxroom/record_gamebg.png" />
+      <FilePathData Path="hall/room/jxroom/record_hf.png" />
+      <FilePathData Path="hall/room/jxroom/record_bg.png" />
+      <FilePathData Path="hall/room/jxroom/search_bg.png" />
+      <FilePathData Path="hall/room/jxroom/search_btn.png" />
+      <FilePathData Path="hall/room/jxroom/record_mask.png" />
+      <FilePathData Path="hall/room/jxroom/search_input_bg.png" />
+      <FilePathData Path="hall/room/jxroom/search_camera.png" />
+      <FilePathData Path="hall/room/jxroom/create_close.png" />
+      <FilePathData Path="hall/room/jxroom/img_add.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

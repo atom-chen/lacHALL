@@ -1,0 +1,27 @@
+
+shengduan.png
+size: 361,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+203d4ed3
+  rotate: false
+  xy: 2, 2
+  size: 254, 224
+  orig: 256, 256
+  offset: 1, 16
+  index: -1
+glow1
+  rotate: false
+  xy: 258, 124
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 258, 38
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

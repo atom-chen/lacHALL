@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>common/buy_prompt/btn_bk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,432},{44,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,58}</string>
+			</dict>
+			<key>common/buy_prompt/close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,376},{52,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{52,54}</string>
+			</dict>
+			<key>common/buy_prompt/img_btn_apple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,440},{172,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,52}</string>
+			</dict>
+			<key>common/buy_prompt/img_btn_wx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,2},{202,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{202,56}</string>
+			</dict>
+			<key>common/buy_prompt/img_btn_zfb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,208},{164,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{164,56}</string>
+			</dict>
+			<key>common/buy_prompt/pic_bcdd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{414,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{414,142}</string>
+			</dict>
+			<key>common/buy_prompt/pic_hqzs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,148},{414,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{414,142}</string>
+			</dict>
+			<key>common/buy_prompt/pic_lb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,294},{414,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{414,142}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>buy_prompt.png</string>
+			<key>realTextureFileName</key>
+			<string>buy_prompt.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

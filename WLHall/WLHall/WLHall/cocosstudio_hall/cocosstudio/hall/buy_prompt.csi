@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="buy_prompt" Type="Plist" ID="fa1de1a8-568f-4987-aa84-8d22cb24b802" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="common/buy_prompt/btn_bk.png" />
+      <FilePathData Path="common/buy_prompt/close.png" />
+      <FilePathData Path="common/buy_prompt/img_btn_apple.png" />
+      <FilePathData Path="common/buy_prompt/img_btn_wx.png" />
+      <FilePathData Path="common/buy_prompt/img_btn_zfb.png" />
+      <FilePathData Path="common/buy_prompt/pic_bcdd.png" />
+      <FilePathData Path="common/buy_prompt/pic_hqzs.png" />
+      <FilePathData Path="common/buy_prompt/pic_lb.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

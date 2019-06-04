@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="newusergift" Type="Plist" ID="21502d3f-3bd9-4373-9b8e-ee77cc980e5d" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/newUserGift/btn_hb_lingqu.png" />
+      <FilePathData Path="hall/newUserGift/btn_hb_oepn.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_avatar.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_bg.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_bottom.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_open.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_shadow.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_ticket_bg.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_ticket_title.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_top.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_tx.png" />
+      <FilePathData Path="hall/newUserGift/img_hb_xdz.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

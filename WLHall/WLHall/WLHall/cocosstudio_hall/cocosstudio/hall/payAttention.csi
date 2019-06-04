@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="payAttention" Type="Plist" ID="412c79b9-eb76-4be3-a044-54bd5b2577fe" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/welfare/gzyl/img_kuang.png" />
+      <FilePathData Path="hall/welfare/gzyl/img_lingqu.png" />
+      <FilePathData Path="hall/welfare/gzyl/img_node.png" />
+      <FilePathData Path="hall/welfare/gzyl/img_yilingqu.png" />
+      <FilePathData Path="hall/welfare/gzyl/img_bg2.png" />
+      <FilePathData Path="hall/welfare/gzyl/img_close.png" />
+      <FilePathData Path="hall/welfare/gzyl/img_lq.png" />
+      <FilePathData Path="hall/welfare/gzyl/img_nt.png" />
+      <FilePathData Path="hall/welfare/gzyl/img_txt.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

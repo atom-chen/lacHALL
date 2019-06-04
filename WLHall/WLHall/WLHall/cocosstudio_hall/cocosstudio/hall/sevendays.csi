@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="sevendays" Type="Plist" ID="13ab5b2e-42c3-40e9-bb67-04fca99540bb" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/active/senevday/bnt.png" />
+      <FilePathData Path="hall/active/senevday/icon_Red envelope_0.png" />
+      <FilePathData Path="hall/active/senevday/icon_Red envelope_1.png" />
+      <FilePathData Path="hall/active/senevday/icon_Red envelope_2.png" />
+      <FilePathData Path="hall/active/senevday/icon_Red envelope_3.png" />
+      <FilePathData Path="hall/active/senevday/icon_Red envelope_5.png" />
+      <FilePathData Path="hall/active/senevday/icon_Red envelope_6.png" />
+      <FilePathData Path="hall/active/senevday/shape_D.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

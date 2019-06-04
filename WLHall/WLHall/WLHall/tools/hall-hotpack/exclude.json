@@ -1,0 +1,11 @@
+[
+    "src/hallmain.lua",
+    "src/QuickTest.lua",
+	"src/areaconfig.lua",
+	"src/cfg_game.lua",
+    "src/local_cfg_game.lua",
+    "src/review_areaconfig.lua",
+	"src/cfg_package.lua",
+	"src/hallconfig.lua",
+	"res/hall/map/"
+]

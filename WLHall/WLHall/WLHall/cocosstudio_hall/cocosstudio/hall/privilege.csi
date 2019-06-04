@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="privilege" Type="Plist" ID="f704c48c-2697-4e00-86a3-2d64380d7141" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/active/privilege/img_btn.png" />
+      <FilePathData Path="hall/active/privilege/img_gm.png" />
+      <FilePathData Path="hall/active/privilege/img_lq.png" />
+      <FilePathData Path="hall/active/privilege/img_ljlq.png" />
+      <FilePathData Path="hall/active/privilege/img_money.png" />
+      <FilePathData Path="hall/active/privilege/img_add.png" />
+      <FilePathData Path="hall/active/privilege/img_doudou.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

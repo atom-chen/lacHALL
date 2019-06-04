@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="bag" Type="Plist" ID="b4744175-4f1e-4e2d-8fd6-ccc36221b08e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/bag/bar_bg.png" />
+      <FilePathData Path="hall/bag/bar_btn.png" />
+      <FilePathData Path="hall/bag/bg.png" />
+      <FilePathData Path="hall/bag/btn_a.png" />
+      <FilePathData Path="hall/bag/btn_r.png" />
+      <FilePathData Path="hall/bag/item_bg.png" />
+      <FilePathData Path="hall/bag/item_info_bg.png" />
+      <FilePathData Path="hall/bag/btn_kf.png" />
+      <FilePathData Path="hall/bag/icon_douzi.png" />
+      <FilePathData Path="hall/bag/bg_yellow.png" />
+      <FilePathData Path="hall/bag/bg_number.png" />
+      <FilePathData Path="hall/bag/slid.png" />
+      <FilePathData Path="hall/bag/icon_qh.png" />
+      <FilePathData Path="hall/bag/img_jqqd.png" />
+      <FilePathData Path="hall/bag/img_time.png" />
+      <FilePathData Path="hall/bag/jqp_di.png" />
+      <FilePathData Path="hall/bag/img_time2.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

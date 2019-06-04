@@ -1,0 +1,27 @@
+
+shengxing.png
+size: 164,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_x001
+  rotate: false
+  xy: 105, 59
+  size: 57, 55
+  orig: 70, 70
+  offset: 7, 7
+  index: -1
+glow1
+  rotate: false
+  xy: 2, 12
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+xxlk
+  rotate: false
+  xy: 105, 2
+  size: 57, 55
+  orig: 70, 70
+  offset: 7, 7
+  index: -1

@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="map_leida" Type="Plist" ID="ea90cced-725c-4a2c-9d78-c956de039b7b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="5" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/leida/leida_1.png" />
+      <FilePathData Path="hall/leida/leida_2.png" />
+      <FilePathData Path="hall/leida/leida_3.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

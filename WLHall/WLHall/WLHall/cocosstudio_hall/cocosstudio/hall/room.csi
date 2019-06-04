@@ -1,0 +1,56 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="room" Type="Plist" ID="19bde51b-ec12-45df-8133-44c41770cab6" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/room/match/bisai_jiantou.png" />
+      <FilePathData Path="hall/room/match/bisai_line.png" />
+      <FilePathData Path="hall/room/match/img_bg.png" />
+      <FilePathData Path="hall/room/match/icon/item_s_wxhb.png" />
+      <FilePathData Path="hall/room/match/icon/item_s_yb.png" />
+      <FilePathData Path="hall/room/friend/player_head_bg.png" />
+      <FilePathData Path="hall/room/match/icon/item_s_hfc.png" />
+      <FilePathData Path="hall/room/match/icon/item_s_jd.png" />
+      <FilePathData Path="hall/room/friend/desk_majiang.png" />
+      <FilePathData Path="hall/room/friend/desk_puke.png" />
+      <FilePathData Path="hall/room/friend/img_ruzuo.png" />
+      <FilePathData Path="hall/room/friend/img_avatar_frame.png" />
+      <FilePathData Path="hall/room/friend/avatar_bg.png" />
+      <FilePathData Path="hall/room/friend/bg_btn_01.png" />
+      <FilePathData Path="hall/room/friend/bg_btn_02.png" />
+      <FilePathData Path="hall/room/friend/btn_gou.png" />
+      <FilePathData Path="hall/room/friend/btn_point.png" />
+      <FilePathData Path="hall/room/friend/img_venue_add.png" />
+      <FilePathData Path="hall/room/friend/bg_sz1.png" />
+      <FilePathData Path="hall/room/friend/bg_sz2.png" />
+      <FilePathData Path="hall/room/friend/btn_delete.png" />
+      <FilePathData Path="hall/room/friend/tab_cj.png" />
+      <FilePathData Path="hall/room/friend/tab_jr.png" />
+      <FilePathData Path="hall/room/friend/tab_zj.png" />
+      <FilePathData Path="hall/room/match/btn_sjt.png" />
+      <FilePathData Path="hall/room/match/img_adorn.png" />
+      <FilePathData Path="hall/room/match/img_kuan1.png" />
+      <FilePathData Path="hall/room/match/match_item_icon.png" />
+      <FilePathData Path="hall/room/match/match_rule.png" />
+      <FilePathData Path="hall/room/match/match_tab_bg.png" />
+      <FilePathData Path="hall/room/match/match_player.png" />
+      <FilePathData Path="hall/room/match/match_icom_lottery.png" />
+      <FilePathData Path="hall/room/match/ico_free_n.png" />
+      <FilePathData Path="hall/room/match/ico_free_s.png" />
+      <FilePathData Path="hall/room/match/ico_match_n.png" />
+      <FilePathData Path="hall/room/match/ico_match_s.png" />
+      <FilePathData Path="hall/room/match/ico_tv_n.png" />
+      <FilePathData Path="hall/room/match/ico_tv_s.png" />
+      <FilePathData Path="hall/room/match/match_item_bg_1.png" />
+      <FilePathData Path="hall/room/match/match_item_bg_2.png" />
+      <FilePathData Path="hall/room/match/match_item_bg_3.png" />
+      <FilePathData Path="hall/room/match/txt_mfbm.png" />
+      <FilePathData Path="hall/room/match/txt_wmz.png" />
+      <FilePathData Path="hall/room/match/txt_ybm.png" />
+      <FilePathData Path="hall/room/match/txt_ljbm.png" />
+      <FilePathData Path="hall/room/match/join_bg.png" />
+      <FilePathData Path="hall/room/match/join_close.png" />
+      <FilePathData Path="hall/room/match/rule_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

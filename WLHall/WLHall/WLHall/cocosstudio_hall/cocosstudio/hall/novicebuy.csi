@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="novicebuy" Type="Plist" ID="b311bf55-4852-4f3a-8402-0042f2f7843c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/popupGoodsView/novicebuyview/buy_bg.png" />
+      <FilePathData Path="hall/popupGoodsView/novicebuyview/img_alipay.png" />
+      <FilePathData Path="hall/popupGoodsView/novicebuyview/img_apple.png" />
+      <FilePathData Path="hall/popupGoodsView/novicebuyview/img_close.png" />
+      <FilePathData Path="hall/popupGoodsView/novicebuyview/img_datu.png" />
+      <FilePathData Path="hall/popupGoodsView/novicebuyview/img_diban.png" />
+      <FilePathData Path="hall/popupGoodsView/novicebuyview/img_plus.png" />
+      <FilePathData Path="hall/popupGoodsView/novicebuyview/img_weixin.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

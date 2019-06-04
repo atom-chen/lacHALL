@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="messageview" Type="Plist" ID="b8e2b025-a680-453c-8e55-ece6ddade5a9" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/announcement/btn_zlw.png" />
+      <FilePathData Path="hall/announcement/btn_ylq.png" />
+      <FilePathData Path="hall/announcement/bg_icon_jl.png" />
+      <FilePathData Path="hall/announcement/icon_xf_01.png" />
+      <FilePathData Path="hall/announcement/icon_xf_02.png" />
+      <FilePathData Path="hall/announcement/btn_zfggg.png" />
+      <FilePathData Path="hall/announcement/btn_zfgxx.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="feedback" Type="Plist" ID="505756d1-132b-4b9e-ac4b-2d4e12bcca79" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/feedback/com_shut down.png" />
+      <FilePathData Path="hall/feedback/icon_guize.png" />
+      <FilePathData Path="hall/feedback/shape_b_1.png" />
+      <FilePathData Path="hall/feedback/shape_b_4.png" />
+      <FilePathData Path="hall/feedback/shape_waik.png" />
+      <FilePathData Path="hall/feedback/shape_xl_2.png" />
+      <FilePathData Path="hall/feedback/art_add.png" />
+      <FilePathData Path="hall/feedback/img_kuan.png" />
+      <FilePathData Path="hall/feedback/icon_yjfk.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="month_card" Type="Plist" ID="e8bb5306-06c7-4c1b-bab1-905b1517f9f2" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hall/month_card/alipay.png" />
+      <FilePathData Path="hall/month_card/applepay.png" />
+      <FilePathData Path="hall/month_card/close.png" />
+      <FilePathData Path="hall/month_card/line.png" />
+      <FilePathData Path="hall/month_card/midas.png" />
+      <FilePathData Path="hall/month_card/pic_add.png" />
+      <FilePathData Path="hall/month_card/txt_get.png" />
+      <FilePathData Path="hall/month_card/txt_get_daily.png" />
+      <FilePathData Path="hall/month_card/txt_price.png" />
+      <FilePathData Path="hall/month_card/wechat.png" />
+      <FilePathData Path="hall/month_card/frame_board.png" />
+      <FilePathData Path="hall/month_card/frame_pay.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>
